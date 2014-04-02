@@ -9,4 +9,4 @@ also thanks to [jglovier](https://github.com/jglovier) for his fantastic site sc
 
 ## external contributors
 
-RunesGuy, __Korrvo__
+RunesGuy, __Korrvo__, Tucan
