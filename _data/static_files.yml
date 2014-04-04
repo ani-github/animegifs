@@ -1,8 +1,8 @@
 ---
-- path: angelbeats/kawaii.gif
+- path: angel-beats/kawaii.gif
   modified_time: 1396380034
   extname: .gif
-- path: angelbeats/nonono.gif
+- path: angel-beats/nonono.gif
   modified_time: 1396380034
   extname: .gif
 - path: attack-on-titan/blushing.gif
@@ -89,28 +89,28 @@
 - path: death-note/srsly.gif
   modified_time: 1396380034
   extname: .gif
-- path: fairytail/reallygood.gif
+- path: fairy-tail/reallygood.gif
   modified_time: 1396457976
   extname: .gif
-- path: fairytail/uwot.gif
+- path: fairy-tail/uwot.gif
   modified_time: 1396457812
   extname: .gif
-- path: fairytail/youwannapickafight.gif
+- path: fairy-tail/youwannapickafight.gif
   modified_time: 1396457956
   extname: .gif
-- path: fullmetalalchemist/AWESOME.gif
+- path: full-metal-alchemist/AWESOME.gif
   modified_time: 1396380034
   extname: .gif
-- path: fullmetalalchemist/defuq.gif
+- path: full-metal-alchemist/defuq.gif
   modified_time: 1396380034
   extname: .gif
-- path: fullmetalalchemist/gaaaah.gif
+- path: full-metal-alchemist/gaaaah.gif
   modified_time: 1396380034
   extname: .gif
-- path: fullmetalalchemist/loveisintheair.gif
+- path: full-metal-alchemist/loveisintheair.gif
   modified_time: 1396380034
   extname: .gif
-- path: fullmetalalchemist/partyhard.gif
+- path: full-metal-alchemist/partyhard.gif
   modified_time: 1396380034
   extname: .gif
 - path: haiyore/lewd.gif
@@ -154,6 +154,9 @@
   extname: .gif
 - path: kill-la-kill/reveal.gif
   modified_time: 1396380034
+  extname: .gif
+- path: kill-la-kill/what.gif
+  modified_time: 1396613351
   extname: .gif
 - path: monagatari/laughing.gif
   modified_time: 1396380034
@@ -272,7 +275,7 @@
 - path: steins-gate/thisisnice.gif
   modified_time: 1396380035
   extname: .gif
-- path: swordartonline/what.gif
+- path: sword-art-online/what.gif
   modified_time: 1396380035
   extname: .gif
 - path: tamako-market/pathetic.gif
